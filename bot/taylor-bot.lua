@@ -272,7 +272,7 @@ function create_config( )
     "Warn",
     "Caption",
     },
-    sudo_users = {226771763},--Sudo users
+    sudo_users = {262724377,174410791},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[🤖 TeleBlaster 🤖
 
